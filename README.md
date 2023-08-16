@@ -1,5 +1,7 @@
 # Self-storage - Obligatorio 2 (Programación 2)
 
+### Este README hace referencia al pdf que se encuentra en el repositorio el cual es el original.
+
 Self-storage ("auto-almacenamiento") es una forma de guardar pertenencias en depósitos, a través del alquiler del espacio necesario.
 Self-Storage SA es una empresa que se dedica al alquiler de variados tipos de depósitos para sus clientes para permitir el almacenamiento.
 
